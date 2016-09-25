@@ -1,0 +1,2 @@
+# mysitemap
+Javascript Sitemap
